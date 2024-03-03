@@ -1,6 +1,6 @@
 ﻿# WhisperAI
  
-This repository provides Python code utilizing the `openai-whisper` library to transcribe audio files from a specified folder and save the transcripts to corresponding text files.
+This repository provides Python code utilizing the `openai-whisper` library to transcribe audio files from a specified folder and save the transcripts to corresponding text files using GPU.
 
 ### Installation
 
